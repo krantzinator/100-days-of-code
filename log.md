@@ -64,3 +64,11 @@
 **Thoughts:** FCC tells me I already completed Record Collection, but why not do it again. I work with JSON objects a fair amount at work, and I could always use more practice. I tend to forget sometimes if I'm working with a JSON or Ruby objects. The RegEx algorithm wasn't challenging per-say, although I'm sure it could be cleaned up. But then again, isn't RegEx always a bit messy? I'm excited to finish the Record Collection tomorrow. And I'm excited that at the 35 minute mark I thought about phoning it in, but kept pushing until I am here, at 57 minutes. Woot! OK my stomach hurts; chugging water and going to bed.
 
 **Link to work:** [Validate US Telephone Numbers](https://github.com/krantzinator/freecodecamp-course/commit/7ec6f2947b792cc5bfe527e98c173cc5ceefffbb), Record Collection [commit 1](https://github.com/krantzinator/freecodecamp-course/commit/96d875ba452aeb1390a703422dff3862027e8397) and [commit 2](https://github.com/krantzinator/freecodecamp-course/commit/ad2a6768bab6298b1d2fcb089dbe7362c2c08d4c)
+
+### Day 9: May 17, 2017
+
+**Today's Progress:** FCC's algorithms: Record Collection and Symmetric Difference (incomplete)
+
+**Thoughts:** My new Record Collection solution looks basically the same as my old Record Collection solution. Have I really made no progress? Or maybe that is one of the more efficient ways of solving the problem? I'll go with the latter. I had a cider tonight whilst workingo n Symmetric Difference, and I am remiss to say that my tolerance is shit and therefore I did not make very good headway with this algorithm. I started down a path I knew would take a lot of refactoring/redirection once complexities were introduced. Le sigh.
+
+**Link to work:** [Record Collection](https://github.com/krantzinator/freecodecamp-course/commit/3d11a14ed5e355287817131b9fc2fc738799e297), [Symmetric Difference](https://github.com/krantzinator/freecodecamp-course/commit/617bca6b15783c19c19b1c0a000e36b6b4fc985f)
