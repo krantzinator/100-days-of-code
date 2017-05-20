@@ -80,3 +80,11 @@
 **Thoughts:** I'm finaly pushing through until I understand this `reduce` stuff. Spent a good amount of time reading through different descriptions and examples of it. I understand the logic, I do. I mean, I know what it does. I am still pushing for that conceptual knowledge of _why_, and how it can be used.
 
 **Link to work:** [Symmetric Difference (this is pure crap)](https://github.com/krantzinator/freecodecamp-course/commit/c647c1e310a91e19fa895252b3a37e079741336f)
+
+### Day 11: May 19, 2017
+
+**Today's Progress:** Finally finished Symmetric Difference
+
+**Thoughts:** Holy cannoli. I thought I understood `Array.prototype.reduce`, but I **do not.** I get the simple case, but apparently going beyond doing one simple action with the accumulator and active value was a serious brain workout. I want to know how to translate the polyfills, because I read through the `reduce` polyfill a few times trying to really ingrain what was happening. I'm closer to full understanding, but this is a difficult one for me to grasp.
+
+**Link to work:** I started from the beginning, in true TDD fashion. Symmetric Difference [commit 1](https://github.com/krantzinator/freecodecamp-course/commit/f4005b55f11358c468d8d6109d0896774ea32ad4), [commit 2](https://github.com/krantzinator/freecodecamp-course/commit/e6c02a20efdf7f3f6adc9e31d123f82212c77e9f), [commit 3](https://github.com/krantzinator/freecodecamp-course/commit/4a90ed2996171efd82949d72994c783cc37914c6), [commit 4](https://github.com/krantzinator/freecodecamp-course/commit/a5be621e0e814fe2e66abd92c3e4a0464ee2ec92)
