@@ -88,3 +88,11 @@
 **Thoughts:** Holy cannoli. I thought I understood `Array.prototype.reduce`, but I **do not.** I get the simple case, but apparently going beyond doing one simple action with the accumulator and active value was a serious brain workout. I want to know how to translate the polyfills, because I read through the `reduce` polyfill a few times trying to really ingrain what was happening. I'm closer to full understanding, but this is a difficult one for me to grasp.
 
 **Link to work:** I started from the beginning, in true TDD fashion. Symmetric Difference [commit 1](https://github.com/krantzinator/freecodecamp-course/commit/f4005b55f11358c468d8d6109d0896774ea32ad4), [commit 2](https://github.com/krantzinator/freecodecamp-course/commit/e6c02a20efdf7f3f6adc9e31d123f82212c77e9f), [commit 3](https://github.com/krantzinator/freecodecamp-course/commit/4a90ed2996171efd82949d72994c783cc37914c6), [commit 4](https://github.com/krantzinator/freecodecamp-course/commit/a5be621e0e814fe2e66abd92c3e4a0464ee2ec92)
+
+### Day 12: May 20, 2017
+
+**Today's Progress:** Mocked out the next algorithm in FCC; tested out Twitch setup
+
+**Thoughts**: I'm losing a sickness fight right now, so rather than try to make my brain work, I am chugging ginger+tumeric tea and doing things that don't take a whole lot of critical thinking skills. Hope to be rested back up by tomorrow. Once I'm healthy, I'm going to do a livestream of Ghost vs Pelican in preparation for moving my personal site off of Jekyll.
+
+**Link to work:** [Exact Change](https://github.com/krantzinator/freecodecamp-course/commit/93264b94bac2a5ea79afdb3db5fd364409121ebc)
