@@ -93,6 +93,14 @@
 
 **Today's Progress:** Mocked out the next algorithm in FCC; tested out Twitch setup
 
-**Thoughts**: I'm losing a sickness fight right now, so rather than try to make my brain work, I am chugging ginger+tumeric tea and doing things that don't take a whole lot of critical thinking skills. Hope to be rested back up by tomorrow. Once I'm healthy, I'm going to do a livestream of Ghost vs Pelican in preparation for moving my personal site off of Jekyll.
+**Thoughts:** I'm losing a sickness fight right now, so rather than try to make my brain work, I am chugging ginger+tumeric tea and doing things that don't take a whole lot of critical thinking skills. Hope to be rested back up by tomorrow. Once I'm healthy, I'm going to do a livestream of Ghost vs Pelican in preparation for moving my personal site off of Jekyll.
 
 **Link to work:** [Exact Change](https://github.com/krantzinator/freecodecamp-course/commit/93264b94bac2a5ea79afdb3db5fd364409121ebc)
+
+### Day 13: May 21, 2017
+
+**Today's Progress:** Finally made good on a goal to livestream a comparison of Ghost vs Pelican!
+
+**Thoughts:** Don't watch this. I spend ~25 minutes installing Ghost and trying to find where in their docs they let me edit things in my text editor (spoiler: they don't; it's all through the admin panel). Then the rest of the time is spent trying to fix Pelican and vi errors. Womp womp.
+
+**Link to work:** [Livestream](https://www.twitch.tv/videos/146082529)
