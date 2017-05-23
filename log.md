@@ -104,3 +104,11 @@
 **Thoughts:** Don't watch this. I spend ~25 minutes installing Ghost and trying to find where in their docs they let me edit things in my text editor (spoiler: they don't; it's all through the admin panel). Then the rest of the time is spent trying to fix Pelican and vi errors. Womp womp.
 
 **Link to work:** [Livestream](https://www.twitch.tv/videos/146082529)
+
+### Day 14: May 22, 2017
+
+**Today's Progress:** Reinforced my knowledge of `.filter()` and `.reduce()`, mainly
+
+**Thoughts:** I wanted to make sure I fully understood what was happening with my Symmetric Difference solution. The console-logging I set up had me confused, and thinking maybe I really didn't understand this `reduce()` business after all. Turns out combining `reduce()` and `filter()` just, ya know, makes things a little more complex. Once I stepped through it clicked. Then I started reading up on Objects for the next algorithm (Exact Change), and learned that there is a `.isFrozen()` method, which of course made me think of Elsa, and then spawned [this mildly entertaining moment on Twitter](https://twitter.com/rustbeltrachel/status/866808655638929409).
+
+**Link to work:** Not much today; included the result of some console-logging on my [Symmetric Difference](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/symmetric-difference) solution, and I am starting to think through what I want my approach to be on [Exact Change](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/exact-change)
