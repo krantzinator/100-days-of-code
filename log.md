@@ -112,3 +112,11 @@
 **Thoughts:** I wanted to make sure I fully understood what was happening with my Symmetric Difference solution. The console-logging I set up had me confused, and thinking maybe I really didn't understand this `reduce()` business after all. Turns out combining `reduce()` and `filter()` just, ya know, makes things a little more complex. Once I stepped through it clicked. Then I started reading up on Objects for the next algorithm (Exact Change), and learned that there is a `.isFrozen()` method, which of course made me think of Elsa, and then spawned [this mildly entertaining moment on Twitter](https://twitter.com/rustbeltrachel/status/866808655638929409).
 
 **Link to work:** Not much today; included the result of some console-logging on my [Symmetric Difference](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/symmetric-difference) solution, and I am starting to think through what I want my approach to be on [Exact Change](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/exact-change)
+
+### Day 15: May 23, 2017
+
+**Today's Progress:** Read up on prototypical interitance and proper use of `.bind()`; took `.bind()` out of my code and started over again with Exact Change algorithm
+
+**Thoughts:** Made a lot of crappy progress, then scrapped it and started over. It's valuable to see what doesn't work, though, right?
+
+**Link to work:** [Exact Change](https://github.com/krantzinator/freecodecamp-course/commit/6218823a9bd6d0418893b9e8cd74e582754a10cf)
