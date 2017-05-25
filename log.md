@@ -120,3 +120,11 @@
 **Thoughts:** Made a lot of crappy progress, then scrapped it and started over. It's valuable to see what doesn't work, though, right?
 
 **Link to work:** [Exact Change](https://github.com/krantzinator/freecodecamp-course/commit/6218823a9bd6d0418893b9e8cd74e582754a10cf)
+
+### Day 16: May 24, 2017
+
+**Today's Progress:** Nothing fancy; trying to understand how/why everything in JavaScript is an object, and objects themselves are the same kind of objects as arrays, which doesn't make sense to how I had categorized things in my mind because you can't use the same methods on arrays and objects, so how are they the same?
+
+**Thoughts:** See above
+
+**Link to work:** [Exact Change](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/exact-change)
