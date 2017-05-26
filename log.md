@@ -133,6 +133,6 @@
 
 **Today's Progress:** Downloaded VSCode, started an Angular project by way of Treehouse
 
-**Thoughts:** Man, the break from algorithms is nice. It's nice to build something, put pieces together, see how it works. I have some ideas on solving that algorithm, and I'm, in a way, looking forward to getting back to it. But also really enjoying this building thing, too.
+**Thoughts:** Man, the break from algorithms is nice. It's nice to build something, put pieces together, see how it works. I have some ideas on solving that algorithm, and I'm, in a way, looking forward to getting back to it. But also really enjoying this building thing, too. Playing with Typescript has been fun, too. I've heard buzzwords for a while now about "statically typed" and "strongly typed" languages. Now I understand what that means; and I've got to say, I like how Typescript lets you declare types for a variable. I see the benefits to both -- it's nice to not have to worry about it, but it's also nice to have that layer of built-in error-catching.
 
 **Link to work:** [Angular project](https://github.com/krantzinator/treehouse_photo_blog)
