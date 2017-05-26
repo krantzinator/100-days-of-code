@@ -128,3 +128,11 @@
 **Thoughts:** See above
 
 **Link to work:** [Exact Change](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/exact-change)
+
+### Day 17: May 25, 2017
+
+**Today's Progress:** Downloaded VSCode, started an Angular project by way of Treehouse
+
+**Thoughts:** Man, the break from algorithms is nice. It's nice to build something, put pieces together, see how it works. I have some ideas on solving that algorithm, and I'm, in a way, looking forward to getting back to it. But also really enjoying this building thing, too.
+
+**Link to work:** [Angular project](https://github.com/krantzinator/treehouse_photo_blog)
