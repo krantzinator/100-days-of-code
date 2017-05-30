@@ -21,7 +21,7 @@
 
 **Today's Progress:** FCC's algorithms: Drop It and Steamroller (started)
 
-**Thoughts:** Drop It was fairly cut and dry. Steamroller is proving challenging because I'm not sure why my `mapFn` is behaving the way it is. If I use the arrow function (as in the current version), the items `console.log()` as their number value. If I use `mapFn(this.x)` isntead, the items `console.log()` as `undefined`. I'm trying to find more examples of how the mapped function operates within `Array.from()`. Maybe the pollyfill will make more sense when I am not so tired. I also want to look at `Function.prototype.apply()` tomorrow and see if this would be useful.
+**Thoughts:** Drop It was fairly cut and dry. Steamroller is proving challenging because I'm not sure why my `mapFn` is behaving the way it is. If I use the arrow function (as in the current version), the items `console.log()` as their number value. If I use `mapFn(this.x)` instead, the items `console.log()` as `undefined`. I'm trying to find more examples of how the mapped function operates within `Array.from()`. Maybe the pollyfill will make more sense when I am not so tired. I also want to look at `Function.prototype.apply()` tomorrow and see if this would be useful.
 
 **Link to work:** [Drop It](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/drop-it), [Steamroller](https://github.com/krantzinator/freecodecamp-course/tree/master/fed-algorithms/steamroller)
 
@@ -115,7 +115,7 @@
 
 ### Day 15: May 23, 2017
 
-**Today's Progress:** Read up on prototypical interitance and proper use of `.bind()`; took `.bind()` out of my code and started over again with Exact Change algorithm
+**Today's Progress:** Read up on prototypical inheritance and proper use of `.bind()`; took `.bind()` out of my code and started over again with Exact Change algorithm
 
 **Thoughts:** Made a lot of crappy progress, then scrapped it and started over. It's valuable to see what doesn't work, though, right?
 
@@ -136,3 +136,31 @@
 **Thoughts:** Man, the break from algorithms is nice. It's nice to build something, put pieces together, see how it works. I have some ideas on solving that algorithm, and I'm, in a way, looking forward to getting back to it. But also really enjoying this building thing, too. Playing with Typescript has been fun, too. I've heard buzzwords for a while now about "statically typed" and "strongly typed" languages. Now I understand what that means; and I've got to say, I like how Typescript lets you declare types for a variable. I see the benefits to both -- it's nice to not have to worry about it, but it's also nice to have that layer of built-in error-catching.
 
 **Link to work:** [Angular project](https://github.com/krantzinator/treehouse_photo_blog)
+
+### Day 18: May 26, 2017
+
+**Today's Progress:** Working through Angular on Treehouse
+
+**Thoughts:** I'm understanding the inner workings of an Angular app structure.
+
+**Link to work:** [Angular app - newest commit](https://github.com/krantzinator/treehouse_photo_blog/commit/678f61baf56ad2e7bbe7b4caad2fa3288a8a832f)
+
+### Day 19: May 27, 2017
+
+**Today's Progress:** Ember work through Big Nerd Ranch's Front End Web Dev book
+
+**Thoughts:** I need to whiteboard the Ember setup. When I get back around internet, I want to draw out a comparison of how Angular vs Ember apps are structured.
+
+**Link to work:** [BNR app](https://github.com/krantzinator/front-end-dev-book/commit/352854ec9bc05fb94c11f1cbcd6bf40cc0a568ab)
+
+### Day 20: May 28, 2017
+
+**Today's Progress:** Finished up the BNR FEWD book and accompanying Ember app
+
+**Thoughts:** I'll be real, it's been hard to focus on code this weekend -- but not because of the holiday. New problems in my life, new people I need to help...but on the coding side, this has been interesting. Ember's structure is so complex. I say that having not used a ton of frameworks, but Ember seems very heavy. Underneath my `app` I have `adapters`, `components`, `controllers`, `helpers`, `models`, `routes`, `styles`, and `templates`. and of course all the other base stuff, like `config` and `vendor` and the bower stuff. The templates pull from the models and feed the controllers which interact with the routes and the components, and it seems like excessive compartmentalizing. I know Ember was created to solve specific problems, and includes all of this because it helps you avoid complexity in other ways. I think I haven't yet encountered enough of the complexities it solves to really appreciate what it is doing. When I get back to internet, I want to look up the source code of applications that use Ember and see some of its problem-solving capabilities in action.
+
+**Link to work:** [BNR app](https://github.com/krantzinator/front-end-dev-book/commit/ca173a1015040c64f005064773bccdb7eda9b0d3)
+
+### Day 21: May 29, 2017
+
+**Today's Progress:** For mental and physical health reasons, I am taking a break today. A 'sick day', as it were.
