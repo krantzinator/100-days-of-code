@@ -164,3 +164,11 @@
 ### Day 21: May 29, 2017
 
 **Today's Progress:** For mental and physical health reasons, I am taking a break today. A 'sick day', as it were.
+
+### Day 22: May 30, 2017
+
+**Today's Progress:** Still feeling sick, so did a very modest amount of Angular work
+
+**Thoughts:** Hit a compatibility bug! Woot. Worked on solving it for ~15 minutes, but I really need to get sleep tonight since I'm still sick. Also, I participated in the #DevDiscuss twitter chat, and I tweeted one thing and have an overflow of mentions and likes. This is a very active Twitter chat! Check it out.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/cf28deddf5d12f65873d99d777895251b07ae05f)
