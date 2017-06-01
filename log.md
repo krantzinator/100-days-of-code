@@ -172,3 +172,17 @@
 **Thoughts:** Hit a compatibility bug! Woot. Worked on solving it for ~15 minutes, but I really need to get sleep tonight since I'm still sick. Also, I participated in the #DevDiscuss twitter chat, and I tweeted one thing and have an overflow of mentions and likes. This is a very active Twitter chat! Check it out.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/cf28deddf5d12f65873d99d777895251b07ae05f)
+
+### Day 23: May 31, 2017
+
+**Today's Progress:** More Angular and npm things
+
+**Thoughts:** Today was fun again. I learned about peer dependencies and how they work, because somewhere along the lines I got one of my angular modules listed in a different version than the rest of the angular modules in my `package.json`. Did some `npm uninstall` magic, changed the version number, and reinstalled my dependencies. Fixed!
+I also took a few notes:
+  - Angular uses the constructor function to instantiate components and wire up dependencies _(side note: had a fun conversation on the AkronWIT Slack channel today about Ruby classes and when you need to use instantiation and when you are good with defining methods with `self` and not needing to instantiate. Describing the conversation as "fun" is not even a little bit sarcastic! I love that community.)_
+  - "@" indicates the import is coming from Angular's namespace
+  - when creating a component, you add dependencies by setting them as parameters of the constructor function
+  - `--save` flag with `npm install` ensures the package gets included in your `package.json`
+  - `--save-exact` is optional but best practice for working on teams or with a continuous integration service; it ensures your package is added to `package.json` exactly as you stipulate, and not with the default version npm dictates (probably usually the most recently stable versions of things?)
+
+**Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/f848eb8793cd5fa6f5014c60ce574d83b59e0f30)
