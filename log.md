@@ -186,3 +186,11 @@ I also took a few notes:
   - `--save-exact` is optional but best practice for working on teams or with a continuous integration service; it ensures your package is added to `package.json` exactly as you stipulate, and not with the default version npm dictates (probably usually the most recently stable versions of things?)
 
 **Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/f848eb8793cd5fa6f5014c60ce574d83b59e0f30)
+
+### Day 24: June 1, 2017
+
+**Today's Progress:** More Angular
+
+**Thoughts:** I now see some of the value Ember adds. I do like the `ember generate` command, as creating new components and their various pieces in Angular takes a small amount of extra time that adds up.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/9625ced6e15d3be4b379616c8e49cf428c592c27)
