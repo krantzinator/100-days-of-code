@@ -194,3 +194,11 @@ I also took a few notes:
 **Thoughts:** I now see some of the value Ember adds. I do like the `ember generate` command, as creating new components and their various pieces in Angular takes a small amount of extra time that adds up.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/9625ced6e15d3be4b379616c8e49cf428c592c27)
+
+### Day 25: June 2, 2017
+
+**Today's Progress:** More Angular
+
+**Thoughts:** I learned that `ngStyle` doesn't work the same in Chrome as in Firefox. Not sure why as I have to get ready for work now, but I'll look into this tomorrow.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/f8e07de3ac15fd67b55fc9a995a6dfff2b4b32e7)
