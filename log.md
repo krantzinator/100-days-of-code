@@ -202,3 +202,11 @@ I also took a few notes:
 **Thoughts:** I learned that `ngStyle` doesn't work the same in Chrome as in Firefox. Not sure why as I have to get ready for work now, but I'll look into this tomorrow.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/treehouse_photo_blog/commit/f8e07de3ac15fd67b55fc9a995a6dfff2b4b32e7)
+
+### Day 26: June 3, 2017
+
+**Today's Progress:** Starting my own Angular app
+
+**Thoughts:** I've only just downloaded the base Angular starter app, and am figuring out where to start with my project. I'm sure this app will move at a snail's pace as I work through the docs. Also, either the sickness I had earlier this week is really sticking around with a vengeance, or we've picked up something entirely new from daycare. Yay daycare. So definitely did not do a full hour today, and I'm OK with that.
+
+**Link to work:** Nothing to show yet.
