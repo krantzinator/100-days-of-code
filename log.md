@@ -234,3 +234,11 @@ I also took a few notes:
 **Thoughts:** OK so apparently, the `angular2-seed` app I had started with is outdated. Which _does_ make sense, since we are now up to Angular 4. I found a typo in the `package.json` and was so excited, but I see there are a few unaccepted PRs, as well as a top issue asking if the repo is dead wherein people commented that all the cool kids use `quickstart` now. Ugh, FINE. I glanced at `quickstart` again, and what do you know, it makes more sense to me now than it did a couple of days ago. I guess this coding every day thing is _working_ or something. As mentioned above, today was largely code reading, as I dug into the Angular source code briefly to see if I could make heads or tails of it, and also played around ever so slightly with the `angular2-seed` setup before nixing that project and moving on with my life. I swear to you, I'm going to start writing more soon. Ironically, my eagerness to jump in and start writing without doing a tutorial is what hosed me -- I skipped the initial Quickstart walkthrough in the docs, thinking, "Nah I'll learn by immersion!" Which, I mean, is sort of working? Moral of the story: tutorials aren't _all_ bad, especially when you're starting with a new framework. In fact, that is their express purpose in life.
 
 **Link to work:** [Foreal foreal Angular app](https://github.com/krantzinator/shopping-list)
+
+### Day 30: June 7, 2017
+
+**Today's Progress:** _actually_ coding in my very first Angular app
+
+**Thoughts:** This got fun today! I successfully pulled myself out of a rabbit hole or two I started to go down in analyzing Angular's architecture (alliteration FTW), and I also successfully forced myself to start small. I am building one piece at a time, not the final application all at once. Random notes: I'm not sure what all these `.js` files do in this Quickstart-based repo (since Typescript, `.ts`, is the language used). I will figure that out later. I'm going to get into the magic of Angular forms over these next few days. Other thing I want to figure out is why I get 404 errors from `systemjs`. After a rough start, I'm liking the Angular docs, and Angular in general. We shall see.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/commit/218f97fc9dd04ee6819674a2f546421cbc2b7653)
