@@ -256,3 +256,5 @@ I also took a few notes:
 **Today's Progress:** trying a few things with objects and Angular and seeing what happens
 
 **Thoughts:** I have this problem where I can't do the simple thing because I want to understand the full picture. That's where I'm at right now. I'm working through this slowly as I branch out with each piece and figure out the connecting pieces. I'm slowly putting this puzzle together.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/)
