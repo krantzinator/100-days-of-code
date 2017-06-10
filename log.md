@@ -242,3 +242,17 @@ I also took a few notes:
 **Thoughts:** This got fun today! I successfully pulled myself out of a rabbit hole or two I started to go down in analyzing Angular's architecture (alliteration FTW), and I also successfully forced myself to start small. I am building one piece at a time, not the final application all at once. Random notes: I'm not sure what all these `.js` files do in this Quickstart-based repo (since Typescript, `.ts`, is the language used). I will figure that out later. I'm going to get into the magic of Angular forms over these next few days. Other thing I want to figure out is why I get 404 errors from `systemjs`. After a rough start, I'm liking the Angular docs, and Angular in general. We shall see.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/commit/218f97fc9dd04ee6819674a2f546421cbc2b7653)
+
+### Day 31: June 8, 2017
+
+**Today's Progress:** dissected object behavior
+
+**Thoughts:** Objects. Just when I think I get them, something new happens.
+
+**Link to work:** I don't think I pushed up any code from this. I did a lot of editing, `npm start`-ing, deleting, and reading docs.
+
+### Day 32: June 9, 2017
+
+**Today's Progress:** trying a few things with objects and Angular and seeing what happens
+
+**Thoughts:** I have this problem where I can't do the simple thing because I want to understand the full picture. That's where I'm at right now. I'm working through this slowly as I branch out with each piece and figure out the connecting pieces. I'm slowly putting this puzzle together.
