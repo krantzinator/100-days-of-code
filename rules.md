@@ -2,6 +2,7 @@
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
+  * Exception: on days that I am sick, coding for five minutes will suffice, as the goal is consistent learning and not killing myself
 
 #### Start Date
 May 9th, 2017
@@ -12,6 +13,7 @@ May 9th, 2017
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+  * _Clarification: working through a technology's Docs will absolutely count towards this challenge_
 
 
 ## Ideas to make this challenge more effective
