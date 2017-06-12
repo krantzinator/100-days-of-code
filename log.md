@@ -268,3 +268,5 @@ I also took a few notes:
 **Today's Progress:** Fixed bugs! Added CSS styles! Drank coffee! (in reverse order)
 
 **Thoughts:** Today was fun -- again! It's amazing what being relatively well-rested will do for you. Only has ~8 hours of car time today, so ooh lah lah. Back home, and feeling good. Ran into my old nemesis CSS again, but this time was nicer as I was able to refer back to the `position` stuff I learned from Big Nerd Ranch's Front End Dev book. Realized I had typos of mixing up `:` and `=` with my variable declarations and object/function assignments under my `AppComponent`. I've put in a couple of hours tonight, and am doing the "quit while you're ahead" thing. I've been following Angular's docs so far, but tomorrow I'm going to off-road a bit and add some collapse functionality to my `<span class="topic">`.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/commit/6d7ba7387d39488982aec6ae1ce63229669c6052)
