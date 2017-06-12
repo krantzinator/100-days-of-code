@@ -258,3 +258,13 @@ I also took a few notes:
 **Thoughts:** I have this problem where I can't do the simple thing because I want to understand the full picture. That's where I'm at right now. I'm working through this slowly as I branch out with each piece and figure out the connecting pieces. I'm slowly putting this puzzle together.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/)
+
+### Day `null`: June 10, 2017
+
+**Today's Progress/Thoughts:** I was in a wedding on this day, and I meant to code, I really did. But 14 hours of driving in the previous days + baby + all day wedding responsibilities == mass levels of exhaustion. My brain was worthless, and I collapsed into bed without showering. I have found my programming limit.
+
+### Day 33: June 11, 2017
+
+**Today's Progress:** Fixed bugs! Added CSS styles! Drank coffee! (in reverse order)
+
+**Thoughts:** Today was fun -- again! It's amazing what being relatively well-rested will do for you. Only has ~8 hours of car time today, so ooh lah lah. Back home, and feeling good. Ran into my old nemesis CSS again, but this time was nicer as I was able to refer back to the `position` stuff I learned from Big Nerd Ranch's Front End Dev book. Realized I had typos of mixing up `:` and `=` with my variable declarations and object/function assignments under my `AppComponent`. I've put in a couple of hours tonight, and am doing the "quit while you're ahead" thing. I've been following Angular's docs so far, but tomorrow I'm going to off-road a bit and add some collapse functionality to my `<span class="topic">`.
