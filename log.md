@@ -270,3 +270,11 @@ I also took a few notes:
 **Thoughts:** Today was fun -- again! It's amazing what being relatively well-rested will do for you. Only has ~8 hours of car time today, so ooh lah lah. Back home, and feeling good. Ran into my old nemesis CSS again, but this time was nicer as I was able to refer back to the `position` stuff I learned from Big Nerd Ranch's Front End Dev book. Realized I had typos of mixing up `:` and `=` with my variable declarations and object/function assignments under my `AppComponent`. I've put in a couple of hours tonight, and am doing the "quit while you're ahead" thing. I've been following Angular's docs so far, but tomorrow I'm going to off-road a bit and add some collapse functionality to my `<span class="topic">`.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/commit/6d7ba7387d39488982aec6ae1ce63229669c6052)
+
+### Day 34: June 12, 2017
+
+**Today's Progress:** troubleshooting and doc reading
+
+**Thoughts:** Spent some time poking around a React app someone asked me to look at. Then I dove into figuring out a way to collapse elements within Angular. All the internet searches kept turning up Bootstrap, along with why using bootstrap with angular is tricky. I am trying to avoid Bootstrap at the moment, and tried to work out a solution with just angular. Started down the directives rabbit hole, then came back around to editing the component's template directly. Once I have the template html/css working, I may pull it out into a directive.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/)
