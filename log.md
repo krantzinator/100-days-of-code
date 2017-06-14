@@ -278,3 +278,11 @@ I also took a few notes:
 **Thoughts:** Spent some time poking around a React app someone asked me to look at. Then I dove into figuring out a way to collapse elements within Angular. All the internet searches kept turning up Bootstrap, along with why using bootstrap with angular is tricky. I am trying to avoid Bootstrap at the moment, and tried to work out a solution with just angular. Started down the directives rabbit hole, then came back around to editing the component's template directly. Once I have the template html/css working, I may pull it out into a directive.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/)
+
+### Day 35: June 13, 2017
+
+**Today's Progress:** lots of reading!
+
+**Thoughts:** Researched a bit more on bootstrap/angular and if it's a good idea. Asked some people for input, and I'm going to work to implement ngBootstrap tomorrow. Didn't get to it today, as I also spent time reading through a Stir Trek talk on Angular I wish I had gone to, and a very basic summary of Angular written by the Ionic team. I like interspersing my building with reading, as one of the most fun and powerful ways for me to learn is to introduce myself to a concept that is completely foreign (tutorials, reading things people wrote on the topic such as slides from talks), try using that stuff (building), then reading more (or re-reading) things and intros people wrote on the topic. After using something for the first time, and not quite grasping the full picture, I find reading explanations on the very things I've used brings on all those "ohhhh" light bulb moments that stick. I had a few of those "aha" moment today.
+
+**Link to work:** None today
