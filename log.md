@@ -286,3 +286,11 @@ I also took a few notes:
 **Thoughts:** Researched a bit more on bootstrap/angular and if it's a good idea. Asked some people for input, and I'm going to work to implement ngBootstrap tomorrow. Didn't get to it today, as I also spent time reading through a Stir Trek talk on Angular I wish I had gone to, and a very basic summary of Angular written by the Ionic team. I like interspersing my building with reading, as one of the most fun and powerful ways for me to learn is to introduce myself to a concept that is completely foreign (tutorials, reading things people wrote on the topic such as slides from talks), try using that stuff (building), then reading more (or re-reading) things and intros people wrote on the topic. After using something for the first time, and not quite grasping the full picture, I find reading explanations on the very things I've used brings on all those "ohhhh" light bulb moments that stick. I had a few of those "aha" moment today.
 
 **Link to work:** None today
+
+### Day 36: June 14, 2017
+
+**Today's Progress:** added ng-bootstrap to my angular project
+
+**Thoughts:** I'm sick (I get sick a lot, don't I? I might try to do too much and not sleep enough...), so it's an abbreviated day. I spent some time trying to figure out what the ng-bootstrap docs mean when they say to install Bootstrap 4, since other things I had read said not to use Bootstrap's jQuery with Angular. I couldn't find more specific instructions, so I just included the cdn for the CSS in the app's index files, then I installed ng-bootstrap. I'll play with it tomorrow and see if that worked.
+
+**Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/)
