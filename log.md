@@ -294,3 +294,7 @@ I also took a few notes:
 **Thoughts:** I'm sick (I get sick a lot, don't I? I might try to do too much and not sleep enough...), so it's an abbreviated day. I spent some time trying to figure out what the ng-bootstrap docs mean when they say to install Bootstrap 4, since other things I had read said not to use Bootstrap's jQuery with Angular. I couldn't find more specific instructions, so I just included the cdn for the CSS in the app's index files, then I installed ng-bootstrap. I'll play with it tomorrow and see if that worked.
 
 **Link to work:** [Angular app](https://github.com/krantzinator/shopping-list/)
+
+### Day `null`: June 15, 2017
+
+**Thoughts:** I didn't mean to do another sick day so soon, but today I spent 2 hours talking with a project team I'm on, as well as being point-person for all things baby since my husband is working late tonight. Oh, and I've got all this congestion and scratchy throat and stuff. I'm trying to rationalize it by saying, you know, I talked about programming things in that meeting. Or database schemas anyway. But yeah. Basically, I need to sleep now.
