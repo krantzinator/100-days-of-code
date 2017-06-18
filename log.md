@@ -306,3 +306,11 @@ I also took a few notes:
 **Thoughts:** Man, it is really tough to stick with this right now! I am moving, so weekends are terrible for getting things done as I'm packing + keeping tabs on a baby. I really didn't think I'd get to this today, but I did. High five! I dug more into the algorithm from FCC on calculating change from a drawer. I implemented functionality to first assess if there are sufficient funds to give change, and then check if it's a wash (i.e. return "Closed"). I still need to work out the mechanics of counting how many of each type of currency I need to return in change, but I'm on a good roll here and I'm practicing this concept of "quit while you're ahead" so I'm going to stop now, as I think I'm on a good track. More tomorrow!
 
 **Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
+
+### Day 38: June 16, 2017
+
+**Today's Progress:** algorithm work
+
+**Thoughts:** Oh JavaScript. Why does `typeof` an array return `'object'`. Other than that, making good progress on this. Last thing left to do is make sure there is enough change in the till for the particular currency; otherwise, will need to supplement with other types of change. Feeling good.
+
+**Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
