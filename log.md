@@ -298,3 +298,11 @@ I also took a few notes:
 ### Day `null`: June 15, 2017
 
 **Thoughts:** I didn't mean to do another sick day so soon, but today I spent 2 hours talking with a project team I'm on, as well as being point-person for all things baby since my husband is working late tonight. Oh, and I've got all this congestion and scratchy throat and stuff. I'm trying to rationalize it by saying, you know, I talked about programming things in that meeting. Or database schemas anyway. But yeah. Basically, I need to sleep now.
+
+### Day 37: June 15, 2017
+
+**Today's Progress:** algorithm work
+
+**Thoughts:** Man, it is really tough to stick with this right now! I am moving, so weekends are terrible for getting things done as I'm packing + keeping tabs on a baby. I really didn't think I'd get to this today, but I did. High five! I dug more into the algorithm from FCC on calculating change from a drawer. I implemented functionality to first assess if there are sufficient funds to give change, and then check if it's a wash (i.e. return "Closed"). I still need to work out the mechanics of counting how many of each type of currency I need to return in change, but I'm on a good roll here and I'm practicing this concept of "quit while you're ahead" so I'm going to stop now, as I think I'm on a good track. More tomorrow!
+
+**Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
