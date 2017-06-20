@@ -326,3 +326,11 @@ I also took a few notes:
 **Thoughts:** Had a few problems with floats and integers. Then when I thought I had my code done, had some troubles translating it into code FreeCodeCamp can verify. THEN I realized I had skipped a test and actually my setup causes a stackoverflow when there isn't the correct amount of change (even if there is, technically, _enough_ change). I got lost in this tonight. Emphasis on lost. But at least it's fun again! I'm forcing myself to sleep because I know I'll feel like crap in the morning, and also I'm at the stage where I need to step away so I can come back and see the solution in two minutes or less.
 
 **Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
+
+### Day 41: June 20, 2017, part 1
+
+**Today's Progress:** FINISHED THAT DAMN EXACT CHANG ALGORITHM
+
+**Thoughts:** Floating numbers suck. I was also unnecessarily using a recursive statement, which was quite the heavy stack load. Oops. I've heard/read that a best practice is to _always_ have an `else` statement if you have an `if` statement. I often ignore that advice, but I do so thinking of the advice and choosing to ignore it. I am going to stop ignoring that advice now. It's good advice, Brent.
+
+**Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
