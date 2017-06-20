@@ -299,7 +299,11 @@ I also took a few notes:
 
 **Thoughts:** I didn't mean to do another sick day so soon, but today I spent 2 hours talking with a project team I'm on, as well as being point-person for all things baby since my husband is working late tonight. Oh, and I've got all this congestion and scratchy throat and stuff. I'm trying to rationalize it by saying, you know, I talked about programming things in that meeting. Or database schemas anyway. But yeah. Basically, I need to sleep now.
 
-### Day 37: June 15, 2017
+### Day 37: June 16, 2017
+
+**Today's Progress:** I did work, but didn't log it. I swear. I lost a day in here somewhere with my logging, but I promise you I did not miss two days in a row.
+
+### Day 38: June 17, 2017
 
 **Today's Progress:** algorithm work
 
@@ -307,10 +311,18 @@ I also took a few notes:
 
 **Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
 
-### Day 38: June 16, 2017
+### Day 39: June 18, 2017
 
 **Today's Progress:** algorithm work
 
 **Thoughts:** Oh JavaScript. Why does `typeof` an array return `'object'`. Other than that, making good progress on this. Last thing left to do is make sure there is enough change in the till for the particular currency; otherwise, will need to supplement with other types of change. Feeling good.
+
+**Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
+
+### Day 40: June 19, 2017
+
+**Today's Progress:** algorithm work
+
+**Thoughts:** Had a few problems with floats and integers. Then when I thought I had my code done, had some troubles translating it into code FreeCodeCamp can verify. THEN I realized I had skipped a test and actually my setup causes a stackoverflow when there isn't the correct amount of change (even if there is, technically, _enough_ change). I got lost in this tonight. Emphasis on lost. But at least it's fun again! I'm forcing myself to sleep because I know I'll feel like crap in the morning, and also I'm at the stage where I need to step away so I can come back and see the solution in two minutes or less.
 
 **Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
