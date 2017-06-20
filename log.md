@@ -334,3 +334,5 @@ I also took a few notes:
 **Thoughts:** Floating numbers suck. I was also unnecessarily using a recursive statement, which was quite the heavy stack load. Oops. I've heard/read that a best practice is to _always_ have an `else` statement if you have an `if` statement. I often ignore that advice, but I do so thinking of the advice and choosing to ignore it. I am going to stop ignoring that advice now. It's good advice, Brent.
 
 **Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
+
+**More notes:** Forgot to include all the links I've used to read about how annoying floating point math is annoying. [StackOverflow: Is floating point math broken?](https://stackoverflow.com/questions/588004/is-floating-point-math-broken), [Floating point guide](http://floating-point-gui.de/basic/), [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
