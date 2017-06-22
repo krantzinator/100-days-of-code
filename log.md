@@ -336,3 +336,11 @@ I also took a few notes:
 **Link to work:** [Exact Change algorithm](https://github.com/krantzinator/freecodecamp-course/fed-algorithms/exact-change)
 
 **More notes:** Forgot to include all the links I've used to read about how annoying floating point math is annoying. [StackOverflow: Is floating point math broken?](https://stackoverflow.com/questions/588004/is-floating-point-math-broken), [Floating point guide](http://floating-point-gui.de/basic/), [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+
+### Day 42: June 21, 2017
+
+**Today's Progress:** just playin' around
+
+**Thoughts:** I started playing with angular-cli yesterday, and continued today. Partially inspired by a post I saw on how you should practice all of the small, setup pieces of ~React~ Angular until they are second nature. So I made this repo to do that in. Changing little things here and there over and over as I move forward and cement this stuff in my brain.
+
+**Link to work:** [more angular](https://github.com/krantzinator/angular-experiments)
