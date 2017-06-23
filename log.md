@@ -329,7 +329,7 @@ I also took a few notes:
 
 ### Day 41: June 20, 2017, part 1
 
-**Today's Progress:** FINISHED THAT DAMN EXACT CHANG ALGORITHM
+**Today's Progress:** FINISHED THAT DAMN EXACT CHANGE ALGORITHM
 
 **Thoughts:** Floating numbers suck. I was also unnecessarily using a recursive statement, which was quite the heavy stack load. Oops. I've heard/read that a best practice is to _always_ have an `else` statement if you have an `if` statement. I often ignore that advice, but I do so thinking of the advice and choosing to ignore it. I am going to stop ignoring that advice now. It's good advice, Brent.
 
@@ -344,3 +344,11 @@ I also took a few notes:
 **Thoughts:** I started playing with angular-cli yesterday, and continued today. Partially inspired by a post I saw on how you should practice all of the small, setup pieces of ~React~ Angular until they are second nature. So I made this repo to do that in. Changing little things here and there over and over as I move forward and cement this stuff in my brain.
 
 **Link to work:** [more angular](https://github.com/krantzinator/angular-experiments)
+
+### Day 43: June 22, 2017
+
+**Today's Progress:** product design discussions, database schemas, perusing API docs
+
+**Thoughts:** Designing a product as part of a team is a new kind of challenging. We are all product managers. 'Twill be interesting.
+
+**Link to work:** Well now, this work is gonna be kept under wraps for a bit ;)
