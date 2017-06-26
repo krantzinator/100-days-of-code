@@ -352,3 +352,31 @@ I also took a few notes:
 **Thoughts:** Designing a product as part of a team is a new kind of challenging. We are all product managers. 'Twill be interesting.
 
 **Link to work:** Well now, this work is gonna be kept under wraps for a bit ;)
+
+### Day 44: June 23, 2017
+
+**Today's Progress:** algorithms
+
+**Thoughts:** I spent time today mocking out an algorithm solution that it looks like I didn't push up anywhere, but it's fine because I scrapped it anyway. I'm working on this combine-two-2D-arrays problem, where you need to combine the keys (which are numbers) if the values match, otherwise keep the key/value pair and add it to the array, but also keep any key/value pairs from the original array that are not in the second array. I am yet again trying to decide what combination of map/filter/reduce will work here, as well as wanting to use my newfound `for (let x in y)` powers.
+
+**Link to work:** forgot to push it :/
+
+### Day `null`: June 24, 2017
+
+**Today's Progress:** 5am-9pm I was moving. Moving sux. No wifi in the new place yet.
+
+### Day 44: June 25, 2017
+
+**Today's Progress:** got a test passing
+
+**Thoughts:** Decided to take a few hefty steps backwards and start with basic TDD principles. Got a first basic step to pass, yay! This day was all of 5 minutes of programming (maybe 10) due to again spending 5am-9pm on moving/cleaning/packing/unpacking/sick baby. SO FUN.
+
+**Link to work:** [2D array problem](https://github.com/krantzinator/freecodecamp-course/commit/66b36da90185153ddf605736b89d3f01d7ffb5d9)
+
+### Day 45: June 26, 2017
+
+**Today's progress:** broke yesterday's passing test, got yesterday's failing test to pass. So...maybe not quite progress?
+
+**Thoughts:** I think I broke TDD. I have hit the wall of -- I first need to check if any values from FirstArray are not in SecondArray, and if so, keep those/add them to the new array. THEN check all the values of SecondArray and, if not in FirstArray, add to new array, but if they are in FirstArray, then _combine their powers!_ Refreshing my reduce/map/filter knowledges. Again not a full hour of work here, as I need to get the kid from daycare and then return home to my non-wifi'd house and continue unpacking after baby is in bed.
+
+**Link to work:** [2D array problem](https://github.com/krantzinator/freecodecamp-course/commit/076be089af20cc9b7e264025d710096feca1d6fb)
