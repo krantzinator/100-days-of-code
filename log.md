@@ -380,3 +380,19 @@ I also took a few notes:
 **Thoughts:** I think I broke TDD. I have hit the wall of -- I first need to check if any values from FirstArray are not in SecondArray, and if so, keep those/add them to the new array. THEN check all the values of SecondArray and, if not in FirstArray, add to new array, but if they are in FirstArray, then _combine their powers!_ Refreshing my reduce/map/filter knowledges. Again not a full hour of work here, as I need to get the kid from daycare and then return home to my non-wifi'd house and continue unpacking after baby is in bed.
 
 **Link to work:** [2D array problem](https://github.com/krantzinator/freecodecamp-course/commit/076be089af20cc9b7e264025d710096feca1d6fb)
+
+### Day 46: June 27, 2017
+
+**Today's Progress:** Coding while tipsy
+
+**Thoughts:** Another day of moving, no internet at home, and needy baby. I did manage to squeeze in some crap-how-do-these-functions-work-without-the-internet-to-remind-me time.
+
+**Link to work:** [this is crap](https://github.com/krantzinator/freecodecamp-course/commit/71dc02a99cc3468ce6f1b07601ed1283a04cb877)
+
+### Day 47: June 28, 2017
+
+**Today's Progress:** two passing tests!
+
+**Thoughts:** No time to write down; still no home internet, got to leave work in 2 minutes.
+
+**Link to work:** [not quite as much crap](https://github.com/krantzinator/freecodecamp-course/commit/03c3d917a0ef4c08819e63aa1180b1fdc2dbb3ea)
