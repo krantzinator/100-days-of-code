@@ -396,3 +396,28 @@ I also took a few notes:
 **Thoughts:** No time to write down; still no home internet, got to leave work in 2 minutes.
 
 **Link to work:** [not quite as much crap](https://github.com/krantzinator/freecodecamp-course/commit/03c3d917a0ef4c08819e63aa1180b1fdc2dbb3ea)
+
+### Day 48: June 29, 2017
+
+**Today's Progress:** Reading on PaaS/IaaS/SaaS and other hosting and infrastructure things
+
+**Thoughts:** Had some light bulb moments in learning about shared hosting, cloud app deployment, and everything in between. I'd first learned about things like hosting before I knew much about the tech world, as it were, and then I came into things like AWS and Azure from a weird angle, and I am finally realizing how they all overlap and what the value-add is of different options. So much to absorb! I am starting to get into Azure at work at in a side project, so this will be fun.
+
+**Link to work:** none
+
+### Day 49: June 30, 2017
+
+**Today's Progress:** AT&T refuses to let me pay them for internet
+
+**Thoughts:** I spent a lot of time this week hating AT&T. But then it all got better when I realized I live in a township that has just finished installing a fiber network and is going to be connecting my apartment to said network in the next month or two! Which at the rate AT&T is going, will likely be before they can get their act together anyway.
+I did spend some time looking at my code I've written and coming up with ideas, but I really needed to look up a few things, and I'm about out of data on my phone and don't get more until July 16th. It's a rough life right now.
+
+**Link to work:** TBD. When I am back around work internet on Monday, or if I can make it to a Panera this weekend
+
+### Day 50, 51, 52, 53: July 1-4
+
+**Today's Progress:** JavaScript docs
+
+**Thoughts:** Inspired by my difficulty of actually coding when I don't have the internet to look things up, review docs, remember how a particular function works, remember the optional commands for BIFs, or search for error code solutions, I have started making notecards of JavaScript's BIFs. So far I have learned that `.sort()` can take an optional function telling it how to sort, if the Unicode sort order isn't what you need. I'm also paying more attention to the details of each BIF, and digging into the _why_ of each one as I figure out what pieces of information are absolutely necessary for my understanding and can fit on my notecard.
+
+**Link to work:** I get internet back in two weeks so...
