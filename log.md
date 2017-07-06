@@ -414,10 +414,20 @@ I did spend some time looking at my code I've written and coming up with ideas, 
 
 **Link to work:** TBD. When I am back around work internet on Monday, or if I can make it to a Panera this weekend
 
-### Day 50, 51, 52, 53: July 1-4
+### Day 50, 51, 52, 53: July 1-4, 2017
 
 **Today's Progress:** JavaScript docs
 
 **Thoughts:** Inspired by my difficulty of actually coding when I don't have the internet to look things up, review docs, remember how a particular function works, remember the optional commands for BIFs, or search for error code solutions, I have started making notecards of JavaScript's BIFs. So far I have learned that `.sort()` can take an optional function telling it how to sort, if the Unicode sort order isn't what you need. I'm also paying more attention to the details of each BIF, and digging into the _why_ of each one as I figure out what pieces of information are absolutely necessary for my understanding and can fit on my notecard.
 
 **Link to work:** I get internet back in two weeks so...
+
+### Day 54: July 5, 2017
+
+**Today's Progress:** Played with JS object types; read articles
+
+**Thoughts:** I still don't get the difference between Array and Map in JS. I mean, I get that Map is essentially a 'normal' object with key/value pairs, but then why not call it an Object? I guess because it includes an `@@iterator`, but I thought Objects had lengths and indexes also? Maybe they don't. I'll need to look into that more.
+I read articles on IaaS/SaaS/PaaS, lots of different Azure things, and about hoisting in JS. I get the hoisting thing now that I've gone over it a handful of times. Repetition!
+I also heard about and downloaded Dash, which will allow me to keep offline copies of the JavaScript and Angular docs. That means no more excuses! :) I had a lot of miscellaneous things on my programming to-do list today, and I have enjoyed spending more in-depth time on certain topics and making note cards, as these things have helped me deepened my knowledge and understanding. But all that said, it is time to get back to coding things that don't work and banging my head against the wall.
+
+**Link to work:** tomorrow!
