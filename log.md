@@ -431,3 +431,11 @@ I read articles on IaaS/SaaS/PaaS, lots of different Azure things, and about hoi
 I also heard about and downloaded Dash, which will allow me to keep offline copies of the JavaScript and Angular docs. That means no more excuses! :) I had a lot of miscellaneous things on my programming to-do list today, and I have enjoyed spending more in-depth time on certain topics and making note cards, as these things have helped me deepened my knowledge and understanding. But all that said, it is time to get back to coding things that don't work and banging my head against the wall.
 
 **Link to work:** tomorrow!
+
+### Day 55: July 6, 2017
+
+**Today's Progress:** team project discussion, poking the Azure bear, WP plugin jumpstart
+
+**Thoughts:** Guess I couldn't avoid PHP. Here goes nothin'.
+
+**Link to work:** [basic WP plugin](https://github.com/krantzinator/wptreehouse-badges)
