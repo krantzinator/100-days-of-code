@@ -439,3 +439,11 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** Guess I couldn't avoid PHP. Here goes nothin'.
 
 **Link to work:** [basic WP plugin](https://github.com/krantzinator/wptreehouse-badges)
+
+### Day 56: July 7, 2017
+
+**Today's Progress:** ANOTHER Angular project
+
+**Thoughts:** I have too many ideas...plus I wanted to play with Material in an effort to avoid Bootstrap and because someone recommended Material once. Oh and I did this one with Angular CLI.
+
+**Link to work:** [moar Angular](https://github.com/krantzinator/pokemon-vs-programming-languages)
