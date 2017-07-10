@@ -447,3 +447,15 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** I have too many ideas...plus I wanted to play with Material in an effort to avoid Bootstrap and because someone recommended Material once. Oh and I did this one with Angular CLI.
 
 **Link to work:** [moar Angular](https://github.com/krantzinator/pokemon-vs-programming-languages)
+
+### Day `null`: July 8, 2017
+
+**Thoughts:** Wow I totally forgot to code today. Just plain forgot. I had a sick baby all day while I was working on unpacking, and then a wedding in the afternoon/evening.
+
+### Day 57: July 9, 2017
+
+**Today's Progress:** Material Angular
+
+**Thoughts:** Played with stuff
+
+**Link to work:** [moar Angular](https://github.com/krantzinator/pokemon-vs-programming-languages)
