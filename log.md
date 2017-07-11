@@ -459,3 +459,11 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** Played with stuff
 
 **Link to work:** [moar Angular](https://github.com/krantzinator/pokemon-vs-programming-languages)
+
+### Day 58: July 10, 2017
+
+**Today's Progress:** Material Angular practice
+
+**Thoughts:** more practice
+
+**Link to work:** [mocked up Angular + Material landing page](https://github.com/krantzinator/angular-landing-page)
