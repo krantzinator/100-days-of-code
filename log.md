@@ -467,3 +467,19 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** more practice
 
 **Link to work:** [mocked up Angular + Material landing page](https://github.com/krantzinator/angular-landing-page)
+
+### Day 59: July 11, 2017
+
+**Today's Progress:** Material, product strategizing
+
+**Thoughts:** I finally beat Material. Also other things that I already forget because I didn't write this yesterday and yesterday was a blur. I learned that webpack does not read changes in `.angular-cli.json` unless you stop/start.
+
+**Link to work:** [mocked up Angular + Material landing page](https://github.com/krantzinator/angular-landing-page)
+
+### Day 60: July 12, 2017
+
+**Today's Progress:** Built a Hugo site
+
+**Thoughts:** I've been on Jekyll for ~2-3 years. Time to move on. Damn if Hugo isn't the easiest to set up.
+
+**Link to work:** [Hugo site](https://github.com/krantzinator/hugo-blog)
