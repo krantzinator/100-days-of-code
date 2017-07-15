@@ -483,3 +483,24 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** I've been on Jekyll for ~2-3 years. Time to move on. Damn if Hugo isn't the easiest to set up.
 
 **Link to work:** [Hugo site](https://github.com/krantzinator/hugo-blog)
+
+### Day 61: July 13, 2017
+
+**Today's Progress:** Angular things
+
+**Thoughts:** Not enough internet for thoughts
+
+### Day 62: July 14, 2017
+
+**Today's Progress:** Angular and Hugo things
+
+**Thoughts:** Still short on internet
+
+### Day 62: July 15, 2017
+
+**Today's Progress:** Many, many Angular things
+
+**Thoughts:** Angular is awesome.
+
+**Link to work:** [Angular doc's Hero app](https://github.com/krantzinator/angular-experiments)
+
