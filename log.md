@@ -496,7 +496,7 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 
 **Thoughts:** Still short on internet
 
-### Day 62: July 15, 2017
+### Day 63: July 15, 2017
 
 **Today's Progress:** Many, many Angular things
 
@@ -504,3 +504,26 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 
 **Link to work:** [Angular doc's Hero app](https://github.com/krantzinator/angular-experiments)
 
+### Day 64: July 16, 2017
+
+**Today's Progress:** Many, many Angular things
+
+**Thoughts:** Working on a project for fun and profit.
+
+**Link to work:** link unavailable
+
+### Day 65: July 17, 2017
+
+**Today's Progress:** Many, many Angular things
+
+**Thoughts:** Playing, breaking, getting hella frustrated with the (lack of) documentation around Material 2's data table documentation.
+
+**Link to work:** [Angular things](https://github.com/krantzinator/angular-landing-page)
+
+### Day 66: July 18, 2017
+
+**Today's Progress:** Many, many Angular things
+
+**Thoughts:** Angular is awesome. AND I HAVE FULL INTERNET. I had been using a FreedomPop hotspot for the past week and a half, but a data cap of 4GB is seriously small on non-phones and for daily internet usage. Now I finally am hooked up to my township's fiber network and my budget of $30/month gives me 30up/down, with no lagging during high usage times, no contracts, and no equipment or installation fees. I am now a huge supporter of local governments getting involved in the internet game.
+
+**Link to work:** [MDL things](https://github.com/krantzinator/angular-experiments)
