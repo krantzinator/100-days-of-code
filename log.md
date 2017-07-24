@@ -536,3 +536,30 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 
 **Link to work:** none ;) SUPER SECRET TOP SECRET WOW
 
+### Day `null`: July 20, 2017
+
+**Today's Progress:** trying to recover from some illness and a baby who forgot how to sleep through the night
+
+### Day 68: July 21, 2017
+
+**Today's Progress:** still beating that Angular drum
+
+**Thoughts:** I'm tired.
+
+**Link to work:** none ;) SUPER SECRET TOP
+
+### Day 69: July 22, 2017
+
+**Today's Progress:** still beating that Angular drum
+
+**Thoughts:** I'm tired.
+
+**Link to work:** none ;) SUPER SECRET TOP
+
+### Day 70: July 23, 2017
+
+**Today's Progress:** still beating that Angular drum
+
+**Thoughts:** I'm tired.
+
+**Link to work:** none ;) SUPER SECRET TOP
