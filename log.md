@@ -563,3 +563,23 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** I'm tired.
 
 **Link to work:** none ;) SUPER SECRET TOP
+
+### Day 71: July 24, 2017
+
+**Today's Progress:** Working on a Hugo site for my personal
+
+**Thoughts:** I'm learning the slight differences between TOML and YAML; YAML being what I'm used to at work and from Jekyll, and TOML being what Hugo uses. Hugo's CLI is neat; nothing exceptional so far. I edited and added to the theme I downloaded. It's not much of an addition, but I pondered forking a branch and sharing my addition. Maybe. Maybe not. I just copied what was there for Projects and made a Talks section with linkage.
+
+**Link to work:** [Hugo blog](https://github.com/krantzinator/hugo-blog)
+
+### Day `null`: July 25, 2017
+
+**Today's Progress:** Stayed home sick from work today. This autoimmune relapse is rough.
+
+### Day 72: July 26, 2017
+
+**Today's Progress:** Finished the Tour of Heroes Angular tutorial
+
+**Thoughts:** I'm at the point in Angular where tutorials and talks are reviews, instead of new concepts. So that's cool. I'm going to give an Angular talk or to at meetups over the next few months, with the goal of submitting a talk or two, or three!, to NgVikings in December.
+
+**Link to work:** [Angular tour of heroes](https://github.com/krantzinator/angular-experiments)
