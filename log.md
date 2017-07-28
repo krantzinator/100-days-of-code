@@ -583,3 +583,7 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 **Thoughts:** I'm at the point in Angular where tutorials and talks are reviews, instead of new concepts. So that's cool. I'm going to give an Angular talk or to at meetups over the next few months, with the goal of submitting a talk or two, or three!, to NgVikings in December.
 
 **Link to work:** [Angular tour of heroes](https://github.com/krantzinator/angular-experiments)
+
+### Day 73: July 27, 2017
+
+**Today's Progress:** Hugo stuff over my lunch break. Didn't push anything up, so nothing to show today. I'm fighting this weird flu-thing, that may or may not be related to my autoimmune flareup thing? I don't know, but it's odd, and a bit thinking-energy sapping.
