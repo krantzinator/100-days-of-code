@@ -587,3 +587,13 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 ### Day 73: July 27, 2017
 
 **Today's Progress:** Hugo stuff over my lunch break. Didn't push anything up, so nothing to show today. I'm fighting this weird flu-thing, that may or may not be related to my autoimmune flareup thing? I don't know, but it's odd, and a bit thinking-energy sapping.
+
+### Day 74: July 28, 2017
+
+**Today's Progress:** mock APIs with Angular and json-server
+
+**Thoughts:** Ahhhh thank you json-server!!! You are what I've been looking for.
+
+I'm not done coding yet for today, but to be frank these summaries are annoying to have to remember so I am doing this now and back to business.
+
+**Link to work:** [Angular todo list tutorial](https://github.com/krantzinator/angular-todo-app)
