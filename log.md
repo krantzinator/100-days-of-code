@@ -597,3 +597,19 @@ I also heard about and downloaded Dash, which will allow me to keep offline copi
 I'm not done coding yet for today, but to be frank these summaries are annoying to have to remember so I am doing this now and back to business.
 
 **Link to work:** [Angular todo list tutorial](https://github.com/krantzinator/angular-todo-app)
+
+### Day 75: July 29, 2017
+
+**Today's Progress:** Angular HttpClient
+
+**Thoughts:** Worked to add HttpClient to my not-open-source project. It didn't go well. Angular docs assume a base level of knowledge that I do not have. Once I figure this stuff out, I _really_ need to blog about it so info is out there for Angular and Typescript newbies to grok.
+
+**Link to work:** none
+
+### Day 76: July 30, 2017
+
+**Today's Progress:** HttpClient with Angular
+
+**Thoughts:** Troubleshooting some things with HttpClient, and trying to figure out if there are any applicable differences (i.e. do I still need RxJS with HttpClient, since Client returns observables? Or does returning Observables mean I _have_ to use RxJS since I'm not dealing with vanilla promises anymore?).
+
+**Link to work:** didn't get anywhere; no link
