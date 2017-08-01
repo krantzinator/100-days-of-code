@@ -613,3 +613,11 @@ I'm not done coding yet for today, but to be frank these summaries are annoying 
 **Thoughts:** Troubleshooting some things with HttpClient, and trying to figure out if there are any applicable differences (i.e. do I still need RxJS with HttpClient, since Client returns observables? Or does returning Observables mean I _have_ to use RxJS since I'm not dealing with vanilla promises anymore?).
 
 **Link to work:** didn't get anywhere; no link
+
+### Day 77: July 31, 2017
+
+**Today's Progress:** Promises
+
+**Thoughts:** Studied up on Promises, because it feels like I'm trying to force Angular to manage something I don't understand. My studying up only served to confirm that I _do_ understand how Promises work, and I need to spend more time parsing Angular handling of them. I wish there were examples/docs without using RxJS. But there isn't. So.
+
+**Link to work:** Was too exhausted to do actual code; settled for a few minutes of light studying. No joke -- went to bed at 8pm, right after putting the baby down and eating dinner.
