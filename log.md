@@ -621,3 +621,12 @@ I'm not done coding yet for today, but to be frank these summaries are annoying 
 **Thoughts:** Studied up on Promises, because it feels like I'm trying to force Angular to manage something I don't understand. My studying up only served to confirm that I _do_ understand how Promises work, and I need to spend more time parsing Angular handling of them. I wish there were examples/docs without using RxJS. But there isn't. So.
 
 **Link to work:** Was too exhausted to do actual code; settled for a few minutes of light studying. No joke -- went to bed at 8pm, right after putting the baby down and eating dinner.
+
+### Day 78: August 1, 2017
+
+**Today's Progress:** Django
+
+**Thoughts:** Ran through most of the DjangoGirls tutorial. I spent a lot of time researching how to keep my password data out of GitHub since that wasn't explicitly covered in the tutorial, found out it's by adding the db and various things to `.gitignore`, then saw the instructions in the tutorial to add various things to `.gitignore`. Maybe I should PR adding a line into the tutorial explaining why you are adding these various things to `.gitignore`...
+Hit some bugs on the deploy to PythonAnywhere. It was fun overall.
+
+**Link to work:** [DjangoGirls tutorial](https://github.com/krantzinator/django-girls-tutorial), [PythonAnywhere](http://krantzinator.pythonanywhere.com/)
