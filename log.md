@@ -630,3 +630,19 @@ I'm not done coding yet for today, but to be frank these summaries are annoying 
 Hit some bugs on the deploy to PythonAnywhere. It was fun overall.
 
 **Link to work:** [DjangoGirls tutorial](https://github.com/krantzinator/django-girls-tutorial), [PythonAnywhere](http://krantzinator.pythonanywhere.com/)
+
+### Day 79: August 2, 2017
+
+**Today's Progress:** Django
+
+**Thoughts:** More DjangoGirls
+
+**Link to work:** [DjangoGirls tutorial](https://github.com/krantzinator/django-girls-tutorial), [PythonAnywhere](http://krantzinator.pythonanywhere.com/)
+
+### Day 80: August 3, 2017
+
+**Today's Progress:** Django
+
+**Thoughts:** Finished DjangoGirls -- but apparently there is a part 2!
+
+**Link to work:** [DjangoGirls tutorial](https://github.com/krantzinator/django-girls-tutorial), [PythonAnywhere](http://krantzinator.pythonanywhere.com/)
