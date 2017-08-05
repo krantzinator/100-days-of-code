@@ -646,3 +646,13 @@ Hit some bugs on the deploy to PythonAnywhere. It was fun overall.
 **Thoughts:** Finished DjangoGirls -- but apparently there is a part 2!
 
 **Link to work:** [DjangoGirls tutorial](https://github.com/krantzinator/django-girls-tutorial), [PythonAnywhere](http://krantzinator.pythonanywhere.com/)
+
+### Day 81: August 4, 2017
+
+**Today's Progress:** Angular - mostly reading, thinking, mapping things in my brain; deleting and renaming things to see what breaks and how
+
+**Thoughts:** Turns out I haven't been fully understanding data binding in Angular. I think that is what is making it so frustrating to figure out how `HttpClient` functions. All of the examples use RxJS to do fancy things, and I just want to pass data from a service back to a component.
+Also, you know what's really annoying about programming how-tos? How people name things. Like, "for row in rows" and then in a neighboring thing "if row is row" and then in another neighboring thing "rows = this row, that row, and the other row" and then in another neighboring thing "rows have row so do row to make rows" and I swear, it is so annoying to figure out which one feeds into what, where the source is, where the end point is, and what order all the middle things are supposed to be in.
+Very shortly here, I am going to understand how this maze works, and then I'm going to write tutorials.
+
+**Link to work:** [Angular to-do app](https://github.com/krantzinator/angular-todo-app/commit/2bbdbf3461193a285a946e92e8618ea799ee05b6)
