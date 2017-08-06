@@ -656,3 +656,42 @@ Also, you know what's really annoying about programming how-tos? How people name
 Very shortly here, I am going to understand how this maze works, and then I'm going to write tutorials.
 
 **Link to work:** [Angular to-do app](https://github.com/krantzinator/angular-todo-app/commit/2bbdbf3461193a285a946e92e8618ea799ee05b6)
+
+### Day 82: August 5, 2017
+
+**Today's Progress:** Angular's HttpClient
+
+**Thoughts:** Moved an app from using `HttpModule` to the new `HttpClientModule`. The changes were:
+- changed the imports (obviously); at `app.module.ts` and the service I previously imported `Http` into now imported `HttpClient`
+- since `HttpClient` is better, I also no longer needed my import of `Response` from `@angular/core` in my service; removed that
+  - so my Service's import went from `import { Http, Response } from '@angular/http';` to `import { HttpClient } from '@angular/common/http';`
+- updated my `constructor (private http: Http) { }` to `constructor (private http: HttpClient) { }`
+- since `HttpClient` returns json by default, I removed the `.json()` from my `http` responses, from:
+```
+return this.http
+  .get(API_URL + '/todos')
+  .map(response => {
+    const todos = response.json();
+    return todos.map((todo) => new Todo(todo));
+  })
+```
+to
+```
+return this.http
+  .get(API_URL + '/todos')
+  .map(response => {
+    const todos = response;
+    return todos.map((todo) => new Todo(todo));
+  })
+```
+- after the above changes, I was seeing the error `property 'map' does not exist on type Object`. Checked out Angular's docs and read that "...while HttpClient parsed the JSON response into an Object, it doesn't know what shape that object is." I therefore informed HttpClient what type of Object to expect by passing a type parameter to my `.get` call. I already had a type defined in a `todo.ts` file, which laid out my Object's "shape" (as the docs refer to it). I therefore added this type, `<Todo[]>` to my `.get` like so:
+```
+return this.http
+  .get<Todo[]>(API_URL + '/todos')
+  .map(response => {
+    const todos = response;
+    return todos.map((todo) => new Todo(todo));
+  })
+```
+
+**Link to work:** [Angular to-do app](https://github.com/krantzinator/angular-todo-app/commit/f8b1face9571d8ecf961a20cbb3dc6e063bfb5a0)
