@@ -695,3 +695,12 @@ return this.http
 ```
 
 **Link to work:** [Angular to-do app](https://github.com/krantzinator/angular-todo-app/commit/f8b1face9571d8ecf961a20cbb3dc6e063bfb5a0)
+
+### Day 83: August 6, 2017
+
+**Today's Progress:** Angular forms, python wikipedia API
+
+**Thoughts:** Started work on Angular forms. Found out there are two different types of forms, which is essentially sync vs async. Started researching pros/cons of those and what type of data is "safe" with each strategy. Also added a bit of form validation to my private project. Need to add more. Broke apart the form into a separate component and then wired that to the display page.
+Got the urge to scrape some wikipedia info, and found out there's a PyPi package for that, aptly named `wikipedia`. Did some scraping converted unicode to strings, got rid of all "(programming language)" text and then further got rid of all text enclosed in parentheses. Need to clean up the data a bit more, as there are leftover unicode chars, as well as things with "computing." I'll probably also want to get rid of anything that's all caps, anything that says "language," as well as anything that's more than one word. Yay regex!
+
+**Link to work:** Not much to see, as I didn't save my python code, and my Angular work is under wraps. Next run of this I'll give IPython/Jupyter a swing and capture my work. [JSON results of scraping](https://github.com/krantzinator/pokemon-vs-programming-languages/blob/master/languages.json)
