@@ -704,3 +704,15 @@ return this.http
 Got the urge to scrape some wikipedia info, and found out there's a PyPi package for that, aptly named `wikipedia`. Did some scraping converted unicode to strings, got rid of all "(programming language)" text and then further got rid of all text enclosed in parentheses. Need to clean up the data a bit more, as there are leftover unicode chars, as well as things with "computing." I'll probably also want to get rid of anything that's all caps, anything that says "language," as well as anything that's more than one word. Yay regex!
 
 **Link to work:** Not much to see, as I didn't save my python code, and my Angular work is under wraps. Next run of this I'll give IPython/Jupyter a swing and capture my work. [JSON results of scraping](https://github.com/krantzinator/pokemon-vs-programming-languages/blob/master/languages.json)
+
+### Day `null`: August 7, 2017
+
+**Today's Progress:** A bit sick, but mostly spent my entire evening leading a kickoff meeting for AkronWIT's Code Epic. Hit the hay once that was done.
+
+### Day 84: August 8, 2017
+
+**Today's Progress:** Not much, spent some time looking through Hugo's docs and poking around what I've got so far.
+
+**Thoughts:** There are some variables that I haven't found yet where they are set. Also not sure I'm loving my theme, and I want to figure out how it's doing a few things so I can change them.
+
+**Link to work:** none; lots of reading of documentation and local code
