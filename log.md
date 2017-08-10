@@ -716,3 +716,11 @@ Got the urge to scrape some wikipedia info, and found out there's a PyPi package
 **Thoughts:** There are some variables that I haven't found yet where they are set. Also not sure I'm loving my theme, and I want to figure out how it's doing a few things so I can change them.
 
 **Link to work:** none; lots of reading of documentation and local code
+
+### Day 85: August 9, 2017
+
+**Today's Progress:** Angular forms and form validation
+
+**Thoughts:** Sick again/still. Gotta go to bed before I have pushable code written, unfortunately. Working through Angular's docs on forms and form validation, and how to connect the various pieces when your form functionality is split amongst components.
+
+**Link to work:** none
