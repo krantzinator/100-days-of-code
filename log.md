@@ -724,3 +724,11 @@ Got the urge to scrape some wikipedia info, and found out there's a PyPi package
 **Thoughts:** Sick again/still. Gotta go to bed before I have pushable code written, unfortunately. Working through Angular's docs on forms and form validation, and how to connect the various pieces when your form functionality is split amongst components.
 
 **Link to work:** none
+
+### Day 86: August 10, 2017
+
+**Today's Progress:** Angular reading on components, controllers, data binding...
+
+**Thoughts:** More reading! I've hit a point in writing Angular that I need to go back and re-read all the things that made _sort of_ sense in the beginning. They make _actual_ sense now, and it is significantly helpful.
+
+**Link to work:** none
