@@ -732,3 +732,19 @@ Got the urge to scrape some wikipedia info, and found out there's a PyPi package
 **Thoughts:** More reading! I've hit a point in writing Angular that I need to go back and re-read all the things that made _sort of_ sense in the beginning. They make _actual_ sense now, and it is significantly helpful.
 
 **Link to work:** none
+
+### Day `null`: August 11, 2017
+
+**Today's Progress:** I simply forgot to code today, I was so caught up in reading the #WITBragDay hashtag. Ironically, I guess!
+
+### Day 87: August 12, 2017
+
+**Today's Progress:** wrote a couple of lines of crappy Angular code; nothing to show; I really just did the bare minimum to not miss two days in a row, since this weekend was quite sucky for various reasons.
+
+### Day 88: August 13, 2017
+
+**Today's Progress:** Taking a break back into the world of Python
+
+**Thoughts:** None. (Hah!)
+
+**Link to work:** (a few random python games)[https://github.com/krantzinator/treehouse-python]
