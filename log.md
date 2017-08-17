@@ -748,3 +748,15 @@ Got the urge to scrape some wikipedia info, and found out there's a PyPi package
 **Thoughts:** None. (Hah!)
 
 **Link to work:** (a few random python games)[https://github.com/krantzinator/treehouse-python]
+
+### Day 89: August 14, 2017
+
+**Today's Progress:** More Python stuffs
+
+### Day 90: August 15, 2017
+
+**Today's Progress:** A bit of reading on Angular; a bit of Python
+
+### Day 91: August 16, 2017
+
+**Today's Progress:** Figured out `.remove()` in python necessitates a `try` and `except` setup to not fail when it can't find things to remove.
